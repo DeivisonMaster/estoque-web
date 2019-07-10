@@ -1,0 +1,10 @@
+-- WINDOWS
+No diretorio: D:\Users\wildfly-15.0.1.Final\wildfly-15.0.1.Final\bin
+Executar via linha de comando:
+
+wsconsume.bat -k -n -o \diretorio-src-do-projeto\ \local-do-arquivo-wsdl
+
+
+
+LINUX
+sh wsconsume.sh -k -n -o \diretorio-src-do-projeto\ \local-do-arquivo-wsdl
