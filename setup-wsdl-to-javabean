@@ -1,4 +1,7 @@
+Configuração para extrair arquivo .wsdl para classes java
 -- WINDOWS
+
+
 No diretorio: D:\Users\wildfly-15.0.1.Final\wildfly-15.0.1.Final\bin
 Executar via linha de comando:
 

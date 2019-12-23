@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 import javax.jws.WebService;
 
+// endpointInterface = define a classe responsável por disponibilizar o serviço. - serviceName = altera o nome do serviço wsdl
 @WebService(endpointInterface = "br.com.caelum.estoque.ws.EstoqueWS", serviceName = "EstoqueWS")
 public class EstoqueWSImpl implements EstoqueWS{
 
