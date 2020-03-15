@@ -5,6 +5,7 @@ Configuração para extrair arquivo .wsdl para classes java
 No diretorio: D:\Users\wildfly-15.0.1.Final\wildfly-15.0.1.Final\bin
 Executar via linha de comando:
 
+APACHE CXF
 wsconsume.bat -k -n -o \diretorio-src-do-projeto\ \local-do-arquivo-wsdl
 
 
